@@ -1,5 +1,5 @@
 ### Welcome to the @whale price fetching project Frontend
-### API/DB part you can find [here](https://github.com/0xvoider42/-whale/)
+### API/DB part you can find [here](https://github.com/0xvoider42/-whale)
 
 ## How to?
 - clone the repo
